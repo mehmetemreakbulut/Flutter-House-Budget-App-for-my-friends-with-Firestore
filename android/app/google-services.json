@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "266284847334",
+    "project_id": "goril-3d927",
+    "storage_bucket": "goril-3d927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266284847334:android:dec08ab20456c96a89eb27",
+        "android_client_info": {
+          "package_name": "com.example.goril"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266284847334-pkmq19vbtuml2r6i9gsilp3covfjgth3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrAOCXakzcljgzJPcO39xWq6m-hM83yQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266284847334-pkmq19vbtuml2r6i9gsilp3covfjgth3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
